@@ -1,0 +1,28 @@
+{
+  "app.fixbuild.vpncore.optifytunnel": {
+    "ads_config_version": 1,
+    "app_control": {
+      "app_updater_url": "bVEWXT07R4hR9FqXSdnYBJvB6iVD27qApGgTduPVIQnSZU290FRJNZA94MAOg38GasunDwzDQNISbCib8u20DN8Y51agW1U4XfuyCweIXdK8OWmyWRKA+vXUrJ1IOwq8\/o1VrDL11Bk="
+    },
+    "ad_units": {
+      "app_open_unit": "iBV+hkQ0EC8=",
+      "banner_unit": "AsuQz+IVzjM=",
+      "interstitial_unit": "vwc5RU+Sl+Y=",
+      "rewarded_unit": "MW1KnIwZWag=",
+      "rewarded_interstitial_unit": "FnopRZb8Zoz4e\/dc",
+      "native_unit": "\/FTeRD4L4IA="
+    },
+    "ads_control": {
+      "ads_enabled": true,
+      "app_open_enabled": true,
+      "banner_enabled": true,
+      "interstitial_enabled": true,
+      "rewarded_enabled": true,
+      "rewarded_interstitial_enabled": true,
+      "native_enabled": true,
+      "app_open_cooldown_sec": 30,
+      "fullscreen_cooldown_sec": 25,
+      "block_on_vpn_connect": true
+    }
+  }
+}
