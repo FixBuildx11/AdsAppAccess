@@ -1,18 +1,18 @@
 {
   "app.fixbuild.vpncore.optifytunnel": {
-    "ads_config_version": 2,
+    "ads_config_version": 3,
     "app_control": {
       "app_updater_url": "bVEWXT07R4hR9FqXSdnYBJvB6iVD27qApGgTduPVIQnSZU290FRJNZA94MAOg38GasunDwzDQNISbCib8u20DN8Y51agW1U4XfuyCweIXdK8OWmyWRKA+vXUrJ1IOwq8\/o1VrDL11Bk=",
       "privacy_policy_url": "kl06BWm2YAr0K\/6tHpoFGiKdfjfGfNGi",
       "playstore_immediate_update": true
     },
     "ad_units": {
-      "app_open_unit": "iBV+hkQ0EC8=",
-      "banner_unit": "AsuQz+IVzjM=",
-      "interstitial_unit": "vwc5RU+Sl+Y=",
-      "rewarded_unit": "MW1KnIwZWag=",
-      "rewarded_interstitial_unit": "FnopRZb8Zoz4e\/dc",
-      "native_unit": "\/FTeRD4L4IA="
+      "app_open_unit": "4l7FIo+iMUV8h+Yty4juozOO1gdlU7OkfDJLuuB+C0yqYpL5Nw\/GjvO3bbs=",
+      "banner_unit": "deKuDhnHZBHJobZRxVMBcXvOkn2Py3\/em5QRJDZFnTLFDr7r7VGZ1f+4z0o=",
+      "interstitial_unit": "8syiNOFqDIOW\/krNG5HovH62Iw9zwNPcpJ9I87G0wvJvbgQOYFiD+RRQRMs=",
+      "rewarded_unit": "H1Ojxz8t9X6gGRDPQ2u\/+p6nW6m7TDEMI00FMeEdgOkRmKMBNjCFS4MELs8=",
+      "rewarded_interstitial_unit": "JIMsi9O\/mqZRM6Sl1zpvmFeHMOPFWR9icAp32qFDGQOxuWMVnhkv6+RRDK0=",
+      "native_unit": "xGQHSn5mD7nYrY3cAuW0tfKINfofpPNsWxCAA1mxdDOlx2hoAIs4n4ahODI="
     },
     "ads_control": {
       "ads_enabled": true,
