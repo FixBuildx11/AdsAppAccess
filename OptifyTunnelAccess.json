@@ -24,7 +24,7 @@
       "native_enabled": true,
       "app_open_cooldown_sec": 30,
       "fullscreen_cooldown_sec": 25,
-      "block_on_vpn_connect": true
+      "block_on_vpn_connect": false
     }
   }
 }
