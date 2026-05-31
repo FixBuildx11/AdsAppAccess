@@ -15,7 +15,7 @@
       "native_unit": "xGQHSn5mD7nYrY3cAuW0tfKINfofpPNsWxCAA1mxdDOlx2hoAIs4n4ahODI="
     },
     "ads_control": {
-      "ads_enabled": true,
+      "ads_enabled": false,
       "app_open_enabled": true,
       "banner_enabled": true,
       "interstitial_enabled": true,
